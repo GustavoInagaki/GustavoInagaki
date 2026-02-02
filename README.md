@@ -12,5 +12,4 @@
 ### 📌 Projetos em destaque
 - API de Gerenciamento de Tarefas (Spring Boot)
 - CRUD com Paginação e Filtros
-- ⚡ Fun fact: ...
--->
+
