@@ -1,15 +1,47 @@
 ## 👋 Olá! Eu sou o Gustavo Inagaki
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-☕ Desenvolvedor em formação com foco em Java e Spring Boot  
-🚀 Experiência prática no desenvolvimento de APIs REST
+💻 Desenvolvedor Backend em formação | Java • Spring Boot • Python • Django  
+🚀 Experiência na construção de APIs REST e sistemas web com banco de dados
 
-### 🛠️ Tecnologias
-- **Backend:** Java, Spring Boot, JPA, Hibernate  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Ferramentas:** Git, GitHub
+## 🚀 Tecnologias e Ferramentas
+### ☕ Backend Java
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
 
-### 📌 Projetos em destaque
-- 🔗 [CRUD com Paginação e Filtros](https://github.com/GustavoInagaki/cadastro-usuarios-spring)
-- 🔗 [Sistema de Faturamento em Java](https://github.com/GustavoInagaki/Sistema-de-Faturamento)
+### 🐍 Backend Python
+- Python
+- Django
+- Django REST Framework
+
+### 🗄️ Banco de Dados
+- PostgreSQL
+- MySQL
+- SQLite
+
+### 🛠️ Ferramentas
+- Git
+- GitHub
+- Postman
+
+
+## 📌 Projetos em Destaque
+
+🎬 API de Cinema (Python + Django REST)
+- CRUD de filmes e sessões
+- Serializers e ViewSets
+- Paginação e filtros
+- Integração com banco SQLite/PostgreSQL
+
+📋 Gerenciador de Tarefas (Java + JSF)
+- Aplicação web completa
+- Persistência com JPA
+- Arquitetura em camadas
+
+📦 API CRUD com Spring Boot
+- Endpoints REST
+- Validações
+- Paginação
 
